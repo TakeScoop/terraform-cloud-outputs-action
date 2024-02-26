@@ -1,10 +1,12 @@
 module github.com/takescoop/terraform-cloud-outputs-action
 
-go 1.17
+go 1.21
+
+toolchain go1.22.0
 
 require (
 	github.com/hashicorp/go-tfe v0.26.0
-	github.com/sethvargo/go-githubactions v0.5.3
+	github.com/sethvargo/go-githubactions v1.2.0
 	github.com/stretchr/testify v1.7.0
 )
 
