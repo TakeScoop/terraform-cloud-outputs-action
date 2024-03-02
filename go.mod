@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/hashicorp/go-tfe v0.26.0
 	github.com/sethvargo/go-githubactions v0.5.3
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
@@ -17,5 +17,5 @@ require (
 	github.com/hashicorp/jsonapi v0.0.0-20210826224640-ee7dae0fb22d // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
